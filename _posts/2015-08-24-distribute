@@ -1,5 +1,7 @@
-
-Notes on Distributed Systems for Young Bloods
+---
+layout: post
+title: Notes on Distributed Systems for Young Bloods
+---
 
 
 I’ve been thinking about the lessons distributed systems engineers learn on the job. A great deal of our instruction is through scars made by mistakes made in production traffic. These scars are useful reminders, sure, but it’d be better to have more engineers with the full count of their fingers.
