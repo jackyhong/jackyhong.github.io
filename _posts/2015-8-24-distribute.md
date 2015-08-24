@@ -111,3 +111,6 @@ The coordination costs of using a service is also much lower than a shared libra
 The canonical service use case is to hide a storage layer that will be undergoing changes. The extracted service has an API that is more convenient, and reduced in surface area compared to the storage layer it fronts. By extracting a service, the client systems don’t have to know about the complexities of the slow migration to a new storage system or format and only the new service has to be evaluated for bugs that will certainly be found with the new storage layout.
 
 There are a great deal of operational and social issues to consider when doing this. I cannot do them justice here. Another article will have to be written.
+
+
+Copy from (http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
